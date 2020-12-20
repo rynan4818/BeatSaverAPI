@@ -19,6 +19,19 @@ namespace BeatSaverAPI
 
             // Use this to interact with the API
             BeatSaver beatsaver = new BeatSaver(options);
+            Task.Run(async () =>
+            {
+                Beatmap bm = await beatsaver.Hash("CA7D89AC3A74164C961385DBD147BF6BEC96C42E");
+                if (bm != null)
+                {
+                    Console.WriteLine(bm.Key);
+                }
+                else
+                {
+                    Console.WriteLine("err");
+                }
+            });
+            var str = Console.ReadLine();
         }
     }
 }
