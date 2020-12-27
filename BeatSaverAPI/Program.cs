@@ -81,7 +81,7 @@ namespace BeatSaverAPI
             }
             HttpOptions options = new HttpOptions
             {
-                ApplicationName = "Test Client",
+                ApplicationName = "BeatSaverAPI",
                 Version = new Version(1, 0, 0),
                 Timeout = TimeSpan.FromSeconds(timeout)
             };
