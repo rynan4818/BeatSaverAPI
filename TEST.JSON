@@ -1,0 +1,422 @@
+{
+	"metadata": {
+		"difficulties": {
+			"easy": false,
+			"expert": false,
+			"expertPlus": true,
+			"hard": false,
+			"normal": false
+		},
+		"duration": 243,
+		"automapper": null,
+		"characteristics": [
+			{
+				"difficulties": {
+					"easy": null,
+					"expert": null,
+					"expertPlus": {
+						"duration": 718.6273803710938,
+						"length": 236,
+						"njs": 24,
+						"njsOffset": 0,
+						"bombs": 0,
+						"notes": 1164,
+						"obstacles": 58
+					},
+					"hard": null,
+					"normal": null
+				},
+				"name": "Standard"
+			}
+		],
+		"levelAuthorName": "ami_kot",
+		"songAuthorName": "Minami Kuribayashi",
+		"songName": "ZERO!!",
+		"songSubName": "",
+		"bpm": 182
+	},
+	"stats": {
+		"downloads": 141,
+		"plays": 0,
+		"downVotes": 0,
+		"upVotes": 0,
+		"heat": 1851.6190356,
+		"rating": 0
+	},
+	"description": "guitarüò±",
+	"deletedAt": null,
+	"_id": "5fdf15e8ee45950006a1f8ed",
+	"key": "11bcd",
+	"name": "Minami Kuribayashi - ZERO!!",
+	"uploader": {
+		"_id": "5f8b31c99f3df700086429f2",
+		"username": "ami_kot"
+	},
+	"hash": "ca7d89ac3a74164c961385dbd147bf6bec96c42e",
+	"uploaded": "2020-12-20T09:14:16.603Z",
+	"directDownload": "/cdn/11bcd/ca7d89ac3a74164c961385dbd147bf6bec96c42e.zip",
+	"downloadURL": "/api/download/key/11bcd",
+	"coverURL": "/cdn/11bcd/ca7d89ac3a74164c961385dbd147bf6bec96c42e.jpg"
+}
+
+{
+	"metadata": {
+		"difficulties": {
+			"easy": true,
+			"expert": true,
+			"expertPlus": true,
+			"hard": true,
+			"normal": true
+		},
+		"duration": 242,
+		"automapper": null,
+		"characteristics": [
+			{
+				"difficulties": {
+					"easy": {
+						"duration": 500,
+						"length": 240,
+						"njs": 11,
+						"njsOffset": 1,
+						"bombs": 400,
+						"notes": 274,
+						"obstacles": 42
+					},
+					"expert": {
+						"duration": 500,
+						"length": 240,
+						"njs": 16,
+						"njsOffset": -0.25,
+						"bombs": 0,
+						"notes": 938,
+						"obstacles": 41
+					},
+					"expertPlus": {
+						"duration": 500,
+						"length": 240,
+						"njs": 19,
+						"njsOffset": 0.5,
+						"bombs": 0,
+						"notes": 1348,
+						"obstacles": 0
+					},
+					"hard": {
+						"duration": 500,
+						"length": 240,
+						"njs": 14,
+						"njsOffset": 0.25,
+						"bombs": 0,
+						"notes": 606,
+						"obstacles": 8
+					},
+					"normal": {
+						"duration": 500,
+						"length": 240,
+						"njs": 13,
+						"njsOffset": 0.5,
+						"bombs": 400,
+						"notes": 442,
+						"obstacles": 0
+					}
+				},
+				"name": "Standard"
+			},
+			{
+				"difficulties": {
+					"easy": null,
+					"expert": {
+						"duration": 500,
+						"length": 240,
+						"njs": 16,
+						"njsOffset": -0.25,
+						"bombs": 0,
+						"notes": 819,
+						"obstacles": 0
+					},
+					"expertPlus": null,
+					"hard": null,
+					"normal": null
+				},
+				"name": "NoArrows"
+			},
+			{
+				"difficulties": {
+					"easy": null,
+					"expert": null,
+					"expertPlus": {
+						"duration": 500,
+						"length": 240,
+						"njs": 19,
+						"njsOffset": 0.5,
+						"bombs": 0,
+						"notes": 1058,
+						"obstacles": 0
+					},
+					"hard": null,
+					"normal": null
+				},
+				"name": "OneSaber"
+			},
+			{
+				"difficulties": {
+					"easy": {
+						"duration": 0,
+						"length": 0,
+						"njs": 12,
+						"njsOffset": 0,
+						"bombs": 0,
+						"notes": 0,
+						"obstacles": 0
+					},
+					"expert": null,
+					"expertPlus": null,
+					"hard": null,
+					"normal": null
+				},
+				"name": "Lightshow"
+			}
+		],
+		"levelAuthorName": "Various Mappers",
+		"songAuthorName": "Ingo ohne Flamingo",
+		"songName": "Saufen morgens, mittags, abends",
+		"songSubName": "",
+		"bpm": 125
+	},
+	"stats": {
+		"downloads": 24443,
+		"plays": 0,
+		"downVotes": 73,
+		"upVotes": 851,
+		"heat": 1234.6207635,
+		"rating": 0.8671215748303378
+	},
+	"description": "This map is a german collaboration by JohnnyDee, Trolav, Qwasyx and Teuflum (hey that's me).\nAll the Standard difficulties are going for ranked, so reuploads may happen.\nThanks to Scrappy for the mod :)\n\nStandard:\nEasy [Wasser] by JohnnyDee\nNormal [Radler] and Hard [Pils] by Qwasyx\nExpert [Weizen] by Trolav (0:00-0:32) and Teuflum (0:32-End)\nExpert+ [Starkbier] by Trolav (0:00-1:03), Qwasyx (1:03-1:57), JohnnyDee (1:57-2:58) and Teuflum (2:58-End)\n\nOne Saber:\nExpert+ [Schau Mama, Einhaendig!] by Qwasyx\n\nNo Arrows:\nExpert [Doppelkorn] by Trolav\n\nAnd last but not least, the amazing chroma lightshow has been done by Qwasyx.\n\nCheck all of their maps out here:\nJohnnyDee: https://beatsaver.com/uploader/5d3e1593130e0e00069019f7\nTrolav: https://beatsaver.com/uploader/5cff0b7598cc5a672c85368e\nQwasyx: https://beatsaver.com/uploader/5cff0b7698cc5a672c855166\n\nDM me your feedback on discord: Teuflum#5982",
+	"deletedAt": null,
+	"_id": "5e357100455a4d00062fd106",
+	"key": "8339",
+	"name": "Saufen, morgens, mittags, abends - Ingo ohne Flamingo",
+	"uploader": {
+		"_id": "5cff0b7498cc5a672c851a6b",
+		"username": "teuflum"
+	},
+	"hash": "36d0db44e6528bd956d4a473d886433510d1be26",
+	"uploaded": "2020-02-01T12:37:20.275Z",
+	"directDownload": "/cdn/8339/36d0db44e6528bd956d4a473d886433510d1be26.zip",
+	"downloadURL": "/api/download/key/8339",
+	"coverURL": "/cdn/8339/36d0db44e6528bd956d4a473d886433510d1be26.jpg"
+}
+
+{
+	"metadata": {
+		"difficulties": {
+			"easy": false,
+			"expert": true,
+			"expertPlus": true,
+			"hard": true,
+			"normal": true
+		},
+		"duration": 203,
+		"automapper": null,
+		"characteristics": [
+			{
+				"difficulties": {
+					"easy": null,
+					"expert": {
+						"duration": 398.1250915527344,
+						"length": 199,
+						"njs": 16,
+						"njsOffset": 0,
+						"bombs": 0,
+						"notes": 687,
+						"obstacles": 101
+					},
+					"expertPlus": {
+						"duration": 398.1250915527344,
+						"length": 199,
+						"njs": 18,
+						"njsOffset": 0,
+						"bombs": 0,
+						"notes": 859,
+						"obstacles": 103
+					},
+					"hard": {
+						"duration": 398.1250915527344,
+						"length": 199,
+						"njs": 14,
+						"njsOffset": 0,
+						"bombs": 0,
+						"notes": 534,
+						"obstacles": 101
+					},
+					"normal": {
+						"duration": 0,
+						"length": 0,
+						"njs": 12,
+						"njsOffset": 0,
+						"bombs": 0,
+						"notes": 0,
+						"obstacles": 0
+					}
+				},
+				"name": "Standard"
+			}
+		],
+		"levelAuthorName": "aN00Bis97",
+		"songAuthorName": "android52",
+		"songName": "super anime groove 3d world",
+		"songSubName": "",
+		"bpm": 120
+	},
+	"stats": {
+		"downloads": 1478,
+		"plays": 0,
+		"downVotes": 9,
+		"upVotes": 37,
+		"heat": 1644.3657615,
+		"rating": 0.7088444788704632
+	},
+	"description": "Onodera best girl\n\nPreview:\nhttps://youtu.be/Z1COUbwJkqI",
+	"deletedAt": null,
+	"_id": "5f4fc8498a13d9000636d9be",
+	"key": "e26e",
+	"name": "super anime groove 3d world",
+	"uploader": {
+		"_id": "5e17883cf942dd0006b0ea2b",
+		"username": "an00bis97"
+	},
+	"hash": "e63ec731470b2a86ca75a56b14e472d3778bc06b",
+	"uploaded": "2020-09-02T16:28:57.155Z",
+	"directDownload": "/cdn/e26e/e63ec731470b2a86ca75a56b14e472d3778bc06b.zip",
+	"downloadURL": "/api/download/key/e26e",
+	"coverURL": "/cdn/e26e/e63ec731470b2a86ca75a56b14e472d3778bc06b.jpg"
+}
+
+{
+	"metadata": {
+		"difficulties": {
+			"easy": true,
+			"expert": true,
+			"expertPlus": true,
+			"hard": true,
+			"normal": true
+		},
+		"duration": 155,
+		"automapper": null,
+		"characteristics": [
+			{
+				"difficulties": {
+					"easy": {
+						"duration": 402,
+						"length": 152,
+						"njs": 10,
+						"njsOffset": 0,
+						"bombs": 4,
+						"notes": 232,
+						"obstacles": 20
+					},
+					"expert": {
+						"duration": 403,
+						"length": 153,
+						"njs": 16,
+						"njsOffset": 0.5,
+						"bombs": 8,
+						"notes": 678,
+						"obstacles": 20
+					},
+					"expertPlus": {
+						"duration": 403,
+						"length": 153,
+						"njs": 21,
+						"njsOffset": 0.20000000298023224,
+						"bombs": 8,
+						"notes": 805,
+						"obstacles": 21
+					},
+					"hard": {
+						"duration": 403,
+						"length": 153,
+						"njs": 14,
+						"njsOffset": 0.800000011920929,
+						"bombs": 8,
+						"notes": 491,
+						"obstacles": 20
+					},
+					"normal": {
+						"duration": 403,
+						"length": 153,
+						"njs": 12,
+						"njsOffset": 1,
+						"bombs": 4,
+						"notes": 309,
+						"obstacles": 20
+					}
+				},
+				"name": "Standard"
+			},
+			{
+				"difficulties": {
+					"easy": null,
+					"expert": {
+						"duration": 403,
+						"length": 153,
+						"njs": 16,
+						"njsOffset": 0.5,
+						"bombs": 8,
+						"notes": 679,
+						"obstacles": 70
+					},
+					"expertPlus": null,
+					"hard": null,
+					"normal": null
+				},
+				"name": "360Degree"
+			},
+			{
+				"difficulties": {
+					"easy": null,
+					"expert": {
+						"duration": 403,
+						"length": 153,
+						"njs": 16,
+						"njsOffset": 0.5,
+						"bombs": 8,
+						"notes": 679,
+						"obstacles": 70
+					},
+					"expertPlus": null,
+					"hard": null,
+					"normal": null
+				},
+				"name": "90Degree"
+			}
+		],
+		"levelAuthorName": "Kolezan",
+		"songAuthorName": "Haiyore! Nyaruko-san",
+		"songName": "Love is the Servant of Chaos",
+		"songSubName": "(Kole Edit)",
+		"bpm": 158
+	},
+	"stats": {
+		"downloads": 25896,
+		"plays": 0,
+		"downVotes": 26,
+		"upVotes": 672,
+		"heat": 1158.3529945,
+		"rating": 0.8983227908318004
+	},
+	"description": "You hear that chaos in the distance crawling slowly towards you? Sanity Level Critical because that's Nyarlathotep! Or Nyaruko-san as she's also know as! And sheÅfs back once more!\n\nThis song is too good for me to just drop, so I had to make a remap for it, and when 360 and 90 degree mapping was released it was a great excuse to include that as well! It has been remapped from scratch, but some ideas have been kept. The map for 360 and 90 has been adapted so itÅfs not just a simple conversion.\n\nThis song is an opening theme song from the anime series Haiyore! Nyaruko-san.\n\nNo map preview video. (Yet?)\n\nBPM: 158\nDuration: 2:35\n\n== Standard mode: ==\nEasy:\nNPS 1.49, 232 notes, 20 walls, 4 bombs\n\nNormal:\nNPS 1.98, 309 notes, 20 walls, 4 bombs\n\nHard:\nNPS 3.15, 491 notes, 20 walls, 8 bombs\n\nExpert:\nNPS 4.35, 678 notes, 20 walls, 8 bombs\n\nExpert+:\nNPS 5.17, 805 notes, 21 walls, 8 bombs\n\n== 360 degree mode: ==\nExpert:\nNPS 4.36, 679 notes, 70 walls, 8 bombs\n\n== 90 degree mode: ==\nExpert:\nNPS 4.36, 679 notes, 70 walls, 8 bombs\n\nThanks to DufvA, Southwind, Kazekiri, Shurikn, jdlarri, Kylon99, Helen Carnate and Maralade for playtesting!\n\nEnjoy!",
+	"deletedAt": null,
+	"_id": "5e0120c06990c9000611b22e",
+	"key": "78ed",
+	"name": "Love is the Servant of Chaos (Kole Edit) - Haiyore! Nyaruko-san [Std, 360 & 90]",
+	"uploader": {
+		"_id": "5cff0b7398cc5a672c84fcbb",
+		"username": "kolezan"
+	},
+	"hash": "e82d8e09cc99e510ca567c921544801c098829ae",
+	"uploaded": "2019-12-23T20:17:04.289Z",
+	"directDownload": "/cdn/78ed/e82d8e09cc99e510ca567c921544801c098829ae.zip",
+	"downloadURL": "/api/download/key/78ed",
+	"coverURL": "/cdn/78ed/e82d8e09cc99e510ca567c921544801c098829ae.jpg"
+}
+
