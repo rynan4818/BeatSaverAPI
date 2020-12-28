@@ -206,14 +206,20 @@ namespace BeatSaverAPI
                 int i = 0;
                 foreach(BeatmapCharacteristic a in bm.Metadata.Characteristics)
                 {
+                    meta_characteristics[i] = new Characteristic();
                     meta_characteristics[i].Name = a.Name;
-                    CharacteristicDifficulties[] meta_characteristicDifficulties = new CharacteristicDifficulties[a.Difficulties.Count];
-                    int j = 0;
-                    foreach(KeyValuePair<string, BeatmapCharacteristicDifficulty?> pair in a.Difficulties)
-                    {
-
-                    }
-                    meta_characteristics[i].Difficulties;
+                    CharacteristicDifficulties meta_characteristicDifficulties = new CharacteristicDifficulties();
+                    if (a.Difficulties.ContainsKey("easy"))
+                        meta_characteristicDifficulties.Easy = Difficulty_data(a.Difficulties["easy"]);
+                    if (a.Difficulties["expert"] != null)
+                        meta_characteristicDifficulties.Expert = Difficulty_data((BeatmapCharacteristicDifficulty)a.Difficulties["expert"]);
+                    if (a.Difficulties["expertPlus"] != null)
+                        meta_characteristicDifficulties.ExpertPlus = Difficulty_data((BeatmapCharacteristicDifficulty)a.Difficulties["expertPlus"]);
+                    if (a.Difficulties["hard"] != null)
+                        meta_characteristicDifficulties.Hard = Difficulty_data((BeatmapCharacteristicDifficulty)a.Difficulties["hard"]);
+                    if (a.Difficulties["normal"] != null)
+                        meta_characteristicDifficulties.Normal = Difficulty_data((BeatmapCharacteristicDifficulty)a.Difficulties["normal"]);
+                    meta_characteristics[i].Difficulties = meta_characteristicDifficulties;
                     i++;
                 }
                 Beatmap_data beatmap_data = new Beatmap_data
@@ -252,6 +258,28 @@ namespace BeatSaverAPI
             else
             {
                 Console.WriteLine("err");
+            }
+        }
+        private static Difficulty Difficulty_data(BeatmapCharacteristicDifficulty? characteristicDifficulty)
+        {
+            if (characteristicDifficulty != null)
+            {
+                BeatmapCharacteristicDifficulty temp = new BeatmapCharacteristicDifficulty();
+                temp = (BeatmapCharacteristicDifficulty)characteristicDifficulty;
+                return new Difficulty
+                {
+                    Duration = temp.Duration,
+                    Length = temp.Length,
+                    Njs = temp.NoteJumpSpeed,
+                    NjsOffset = temp.NoteJumpSpeedOffset,
+                    Bombs = temp.Bombs,
+                    Notes = temp.Notes,
+                    Obstacles = temp.Obstacles
+                };
+            }
+            else
+            {
+                return null;
             }
         }
     }
