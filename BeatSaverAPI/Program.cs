@@ -79,12 +79,7 @@ namespace BeatSaverAPI
             {
                 timeout = int.Parse(args[1]);
             }
-            HttpOptions options = new HttpOptions
-            {
-                ApplicationName = "BeatSaverAPI",
-                Version = new Version(1, 0, 0),
-                Timeout = TimeSpan.FromSeconds(timeout)
-            };
+            HttpOptions options = new HttpOptions("BeatSaverAPI", new Version(1, 0, 0), TimeSpan.FromSeconds(timeout));
 
             // Use this to interact with the API
             BeatSaver beatsaver = new BeatSaver(options);
